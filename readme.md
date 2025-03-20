@@ -73,7 +73,7 @@ Welcome to the SocialTube backend project! This backend system brings together k
 1. **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/Ayush-Raj-0304/socialTube-backend.git
     ```
 
 2. **Install dependencies:**
