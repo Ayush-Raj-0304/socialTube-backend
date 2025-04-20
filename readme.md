@@ -102,7 +102,7 @@ This project was a significant step in strengthening my Node.js, Express, and Mo
 | Database     | MongoDB                     |
 | Media Upload | Cloudinary                  |
 | Auth         | JSON Web Tokens (JWT)       |
-| Security     | Helmet, CORS                |
+| Security     | CORS                |
 | Deployment   | Render, Vercel              |
 | Frontend     | HTML, Tailwind, JSX,React   |
 
